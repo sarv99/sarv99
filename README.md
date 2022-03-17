@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarv99
+- 👀 I’m interested in AI, Automation, Programming and Learning new things.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m a intermediate in PHP,PYTHON,HTML,JAVASCRIPT and SQL.
+- 📫 You can contact me at sarv8988@gmail.com
